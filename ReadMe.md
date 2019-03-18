@@ -26,7 +26,6 @@
 
 |<center> Subdomain </center> | <center> Challenge </center> | <center> Points </center> | <center> Solution </center> | <center> Date </center> |
 |:--------:|:--------:|:--------:|:--------:|:--------:|
-
 |<center> 0 </center> | <center> [Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world/problem) </center> | <center> 5 </center> | <center> [Solution](./Python/helloWorld.py) </center> | <center> 2019-03-19 </center>
 
 ## SQL
