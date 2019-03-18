@@ -5,7 +5,6 @@
 
 | <center>Day</center> | <center>Challenge</center> | <center>Points</center> | <center>Solution</center> | <center>Date</center> |
 |:--------:|:--------:|:--------:|:--------:|:--------:|
-
 | <center>0</center> | <center>[Hello, world](https://www.hackerrank.com/challenges/30-hello-world/problem) </center> | <center>30</center> | <center>[Solution](./Java/Day0.java)</center> | <center>2019-03-19</center>
 
 ## Algorithms
