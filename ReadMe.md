@@ -51,7 +51,13 @@
 
 |<center> Subdomain </center> | <center> Challenge </center> | <center> Points </center> | <center> Solution </center> | <center> Date </center> |
 |:--------:|:--------:|:--------:|:--------:|:--------:|
-|<center> 0 </center> | <center> [Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world/problem) </center> | <center> 5 </center> | <center> [Solution](./Python/helloWorld.py) </center> | <center> 2019-03-19 </center>
+|<center> Introduction </center> | <center> [Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world/problem) </center> | <center> 5 </center> | <center> [Solution](./Python/helloWorld.py) </center> | <center> 2019-03-19 </center>
+|<center> Introduction </center> | <center> [Python If-Else](https://www.hackerrank.com/challenges/py-if-else/problem) </center> | <center> 10 </center> | <center> [Solution](./Python/PythonIfElse.py) </center> | <center> 2019-03-23 </center>
+|<center> Introduction </center> | <center> [Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem) </center> | <center> 10 </center> | <center> [Solution](./Python/ArithmeticOperators.py) </center> | <center> 2019-03-23 </center>
+|<center> Introduction </center> | <center> [Python: Division](https://www.hackerrank.com/challenges/python-division/problem) </center> | <center> 10 </center> | <center> [Solution](./Python/PythonDivision.py) </center> | <center> 2019-03-23 </center>
+|<center> Introduction </center> | <center> [Loops](https://www.hackerrank.com/challenges/python-loops/problem) </center> | <center> 10 </center> | <center> [Solution](./Python/Loops.py) </center> | <center> 2019-03-23 </center>
+|<center> Introduction </center> | <center> [Write a function](https://www.hackerrank.com/challenges/write-a-function/problem) </center> | <center> 10 </center> | <center> [Solution](./Python/WriteAFunction.py) </center> | <center> 2019-03-23 </center>
+|<center> Introduction </center> | <center> [Print Function](https://www.hackerrank.com/challenges/python-print/problem) </center> | <center> 20 </center> | <center> [Solution](./Python/PrintFunction.py) </center> | <center> 2019-03-23 </center>
 
 ## SQL
 
