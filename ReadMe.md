@@ -61,13 +61,20 @@
 |<center> Basic Data Types </center> | <center> [List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem) </center> | <center> 10 </center> | <center> [Solution](./Python/ListComprehensions.py) </center> | <center> 2019-03-23 </center>
 |<center> Basic Data Types </center> | <center> [Find the Runner-Up Score!](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem) </center> | <center> 10 </center> | <center> [Solution](./Python/FindTheRunnerUpScore.py) </center> | <center> 2019-03-23 </center>
 |<center> Basic Data Types </center> | <center> [Lists](https://www.hackerrank.com/challenges/python-lists/problem) </center> | <center> 10 </center> | <center> [Solution](./Python/Lists.py) </center> | <center> 2019-03-23 </center>
-|<center> Basic Data Types </center> | <center> [List Comprehensions](https://www.hackerrank.com/challenges/python-tuples/problem) </center> | <center> 10 </center> | <center> [Solution](./Python/Tuples.py) </center> | <center> 2019-03-23 </center>
+|<center> Basic Data Types </center> | <center> [Tuples](https://www.hackerrank.com/challenges/python-tuples/problem) </center> | <center> 10 </center> | <center> [Solution](./Python/Tuples.py) </center> | <center> 2019-03-23 </center>
 |<center> Strings </center> | <center> [sWAP cASE](https://www.hackerrank.com/challenges/swap-case/problem) </center> | <center> 10 </center> | <center> [Solution](./Python/sWAPcASE.py) </center> | <center> 2019-03-23 </center>
+
 
 ## SQL
 
 | <center> Subdomain </center> | <center> Challenge </center> | <center> Points </center> | <center> Solution </center> | <center> Date </center> |
 |:--------:|:--------:|:--------:|:--------:|:--------:|
+|<center> Basic Select </center> | <center> [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem) </center> | <center> 10 </center> | <center> [Solution](./SQL/RevisingTheSelectQueryI.sql) </center> | <center> 2019-03-23 </center>
+|<center> Basic Select </center> | <center> [Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem) </center> | <center> 10 </center> | <center> [Solution](./SQL/RevisingTheSelectQueryII.sql) </center> | <center> 2019-03-23 </center>
+|<center> Basic Select </center> | <center> [Select All](https://www.hackerrank.com/challenges/select-all-sql/problem) </center> | <center> 10 </center> | <center> [Solution](./SQL/SelectAll.sql) </center> | <center> 2019-03-23 </center>
+|<center> Basic Select </center> | <center> [SelectByID](https://www.hackerrank.com/challenges/select-by-id/problem) </center> | <center> 10 </center> | <center> [Solution](./SQL/SelectByID.sql) </center> | <center> 2019-03-23 </center>
+|<center> Basic Select </center> | <center> [Japanese Cities' Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem) </center> | <center> 10 </center> | <center> [Solution](./SQL/JapaneseCities'Attributes.sql) </center> | <center> 2019-03-23 </center>
+
 
 ## Scala
 
