@@ -58,6 +58,11 @@
 |<center> Introduction </center> | <center> [Loops](https://www.hackerrank.com/challenges/python-loops/problem) </center> | <center> 10 </center> | <center> [Solution](./Python/Loops.py) </center> | <center> 2019-03-23 </center>
 |<center> Introduction </center> | <center> [Write a function](https://www.hackerrank.com/challenges/write-a-function/problem) </center> | <center> 10 </center> | <center> [Solution](./Python/WriteAFunction.py) </center> | <center> 2019-03-23 </center>
 |<center> Introduction </center> | <center> [Print Function](https://www.hackerrank.com/challenges/python-print/problem) </center> | <center> 20 </center> | <center> [Solution](./Python/PrintFunction.py) </center> | <center> 2019-03-23 </center>
+|<center> Basic Data Types </center> | <center> [List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem) </center> | <center> 10 </center> | <center> [Solution](./Python/ListComprehensions.py) </center> | <center> 2019-03-23 </center>
+|<center> Basic Data Types </center> | <center> [Find the Runner-Up Score!](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem) </center> | <center> 10 </center> | <center> [Solution](./Python/FindTheRunnerUpScore.py) </center> | <center> 2019-03-23 </center>
+|<center> Basic Data Types </center> | <center> [Lists](https://www.hackerrank.com/challenges/python-lists/problem) </center> | <center> 10 </center> | <center> [Solution](./Python/Lists.py) </center> | <center> 2019-03-23 </center>
+|<center> Basic Data Types </center> | <center> [List Comprehensions](https://www.hackerrank.com/challenges/python-tuples/problem) </center> | <center> 10 </center> | <center> [Solution](./Python/Tuples.py) </center> | <center> 2019-03-23 </center>
+|<center> Strings </center> | <center> [sWAP cASE](https://www.hackerrank.com/challenges/swap-case/problem) </center> | <center> 10 </center> | <center> [Solution](./Python/sWAPcASE.py) </center> | <center> 2019-03-23 </center>
 
 ## SQL
 
