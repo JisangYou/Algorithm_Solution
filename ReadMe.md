@@ -31,6 +31,10 @@
 | <center>Warmup</center> | <center>[Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem) </center> | <center>10</center> | <center>[Solution](./Algorithms/MiniMaxSum.java)</center> | <center>2019-03-23</center>
 | <center>Warmup</center> | <center>[Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) </center> | <center>10</center> | <center>[Solution](./Algorithms/BirthdayCakeCandles.java)</center> | <center>2019-03-23</center>
 | <center>Warmup</center> | <center>[Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem) </center> | <center>15</center> | <center>[Solution](./Algorithms/TimeConversion.java)</center> | <center>2019-03-23</center>
+| <center>Implementation</center> | <center>[Grading Students](https://www.hackerrank.com/challenges/grading/problem) </center> | <center>10</center> | <center>[Solution](./Algorithms/GradingStudents.java)</center> | <center>2019-03-23</center>
+| <center>Implementation</center> | <center>[Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem) </center> | <center>10</center> | <center>[Solution](./Algorithms/AppleAndOrange.java)</center> | <center>2019-03-23</center>
+| <center>Implementation</center> | <center>[Kangaroo](https://www.hackerrank.com/challenges/kangaroo/problem) </center> | <center>10</center> | <center>[Solution](./Algorithms/Kangaroo.java)</center> | <center>2019-03-23</center>
+| <center>Implementation</center> | <center>[Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem) </center> | <center>10</center> | <center>[Solution](./Algorithms/BreakingTheRecords.java)</center> | <center>2019-03-23</center>
 
 
 ## DataStructures
