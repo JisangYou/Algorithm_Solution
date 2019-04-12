@@ -46,6 +46,9 @@
 
 | <center> Subdomain </center> | <center> Challenge </center> | <center> Points </center> | <center> Solution </center> | <center> Date </center> |
 |:--------:|:--------:|:--------:|:--------:|:--------:|
+|<center> Introduction </center> | <center> [Java Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem) </center> | <center> 5 </center> | <center> [Solution](./Java/Java Stdin and Stdout I.java) </center> | <center> 2019-04-12 </center>
+|<center> Introduction </center> | <center> [Java If-Else](https://www.hackerrank.com/challenges/java-if-else/problem) </center> | <center> 5 </center> | <center> [Solution](./Java/Java If-Else.java) </center> | <center> 2019-04-12 </center>
+|<center> Introduction </center> | <center> [Java Stdin and Stdout II](https://www.hackerrank.com/challenges/java-stdin-stdout/problem) </center> | <center> 10 </center> | <center> [Solution](./Java/Java Stdin and Stdout II.java) </center> | <center> 2019-04-12 </center>
 
 ## Python
 
