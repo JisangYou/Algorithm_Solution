@@ -36,12 +36,6 @@
 | <center>Implementation</center> | <center>[Kangaroo](https://www.hackerrank.com/challenges/kangaroo/problem) </center> | <center>10</center> | <center>[Solution](./Algorithms/Kangaroo.java)</center> | <center>2019-03-23</center>
 | <center>Implementation</center> | <center>[Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem) </center> | <center>10</center> | <center>[Solution](./Algorithms/BreakingTheRecords.java)</center> | <center>2019-03-23</center>
 
-
-## DataStructures
-
-|<center> Subdomain </center> | <center> Challenge </center> | <center> Points </center> | <center> Solution </center> | <center> Date </center> |
-|:--------:|:--------:|:--------:|:--------:|:--------:|
-
 ## Java
 
 | <center> Subdomain </center> | <center> Challenge </center> | <center> Points </center> | <center> Solution </center> | <center> Date </center> |
@@ -84,3 +78,11 @@
 | <center> Subdomain </center> | <center> Challenge </center> | <center> Points </center> | <center> Solution </center> | <center> Date </center> |
 |:--------:|:--------:|:--------:|:--------:|:--------:|
 
+## SHELL
+
+|<center> Subdomain </center> | <center> Challenge </center> | <center> Points </center> | <center> Solution </center> | <center> Date </center> |
+|:--------:|:--------:|:--------:|:--------:|:--------:|
+|<center> Bash </center> | <center> [Let's Echo](https://github.com/youjisang/Linux_Practice/blob/master/LetsEcho.sh) </center> | <center> 1 </center> | <center> [Solution](./Python/helloWorld.py) </center> | <center> 2019-03-24 </center>
+|<center> Bash </center> | <center> [A Personalized Echo](https://github.com/youjisang/Linux_Practice/blob/master/APersonalizedEcho.sh) </center> | <center> 1 </center> | <center> [Solution](./Python/helloWorld.py) </center> | <center> 2019-03-24 </center>
+|<center> Bash </center> | <center> [Looping with Numbers](https://github.com/youjisang/Linux_Practice/blob/master/LoopingWithNumbers.sh) </center> | <center> 2 </center> | <center> [Solution](./Python/helloWorld.py) </center> | <center> 2019-03-24 </center>
+|<center> Bash </center> | <center> [The World of Numbers](https://github.com/youjisang/Linux_Practice/blob/master/TheWorldOfNumbers.sh) </center> | <center> 2 </center> | <center> [Solution](./Python/helloWorld.py) </center> | <center> 2019-03-25 </center>
