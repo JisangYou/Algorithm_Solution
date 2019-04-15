@@ -40,12 +40,12 @@
 
 | <center> Subdomain </center> | <center> Challenge </center> | <center> Points </center> | <center> Solution </center> | <center> Date </center> |
 |:--------:|:--------:|:--------:|:--------:|:--------:|
-|<center> Introduction </center> | <center> [Java Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem) </center> | <center> 5 </center> | <center> [Solution](./Java/Java Stdin and Stdout I.java) </center> | <center> 2019-04-12 </center>
-|<center> Introduction </center> | <center> [Java If-Else](https://www.hackerrank.com/challenges/java-if-else/problem) </center> | <center> 5 </center> | <center> [Solution](./Java/Java If-Else.java) </center> | <center> 2019-04-12 </center>
-|<center> Introduction </center> | <center> [Java Stdin and Stdout II](https://www.hackerrank.com/challenges/java-stdin-stdout/problem) </center> | <center> 10 </center> | <center> [Solution](./Java/Java Stdin and Stdout II.java) </center> | <center> 2019-04-12 </center>
-|<center> Introduction </center> | <center> [Java Output Formatting](https://www.hackerrank.com/challenges/java-output-formatting/problem) </center> | <center> 10 </center> | <center> [Solution](./Java/Java Output Formatting.java) </center> | <center> 2019-04-15 </center>
-|<center> Introduction </center> | <center> [Java Loops 1](https://www.hackerrank.com/challenges/java-loops-i/problem) </center> | <center> 10 </center> | <center> [Solution](./Java/Java Loops 1.java) </center> | <center> 2019-04-15 </center>
-|<center> Introduction </center> | <center> [Java Loops 2](https://www.hackerrank.com/challenges/java-loops/problem) </center> | <center> 10 </center> | <center> [Solution](./Java/Java Loops 2.java) </center> | <center> 2019-04-15 </center>
+|<center> Introduction </center> | <center> [Java Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem) </center> | <center> 5 </center> | <center> [Solution](./Java/JavaStdinandStdoutI.java) </center> | <center> 2019-04-12 </center>
+|<center> Introduction </center> | <center> [Java If-Else](https://www.hackerrank.com/challenges/java-if-else/problem) </center> | <center> 5 </center> | <center> [Solution](./Java/JavaIf-Else.java) </center> | <center> 2019-04-12 </center>
+|<center> Introduction </center> | <center> [Java Stdin and Stdout II](https://www.hackerrank.com/challenges/java-stdin-stdout/problem) </center> | <center> 10 </center> | <center> [Solution](./Java/JavaStdinandStdoutII.java) </center> | <center> 2019-04-12 </center>
+|<center> Introduction </center> | <center> [Java Output Formatting](https://www.hackerrank.com/challenges/java-output-formatting/problem) </center> | <center> 10 </center> | <center> [Solution](./Java/JavaOutputFormatting.java) </center> | <center> 2019-04-15 </center>
+|<center> Introduction </center> | <center> [Java Loops 1](https://www.hackerrank.com/challenges/java-loops-i/problem) </center> | <center> 10 </center> | <center> [Solution](./Java/JavaLoops1.java) </center> | <center> 2019-04-15 </center>
+|<center> Introduction </center> | <center> [Java Loops 2](https://www.hackerrank.com/challenges/java-loops/problem) </center> | <center> 10 </center> | <center> [Solution](./Java/JavaLoops2.java) </center> | <center> 2019-04-15 </center>
 
 
 ## Python
