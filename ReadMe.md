@@ -47,6 +47,7 @@
 |<center> Introduction </center> | <center> [Java Loops 1](https://www.hackerrank.com/challenges/java-loops-i/problem) </center> | <center> 10 </center> | <center> [Solution](./Java/JavaLoops1.java) </center> | <center> 2019-04-15 </center>
 |<center> Introduction </center> | <center> [Java Datatypes](https://www.hackerrank.com/challenges/java-datatypes/problem) </center> | <center> 10 </center> | <center> [Solution](./Java/JavaDatatypes.java) </center> | <center> 2019-04-23 </center>
 |<center> Introduction </center> | <center> [Java End-of-file](https://www.hackerrank.com/challenges/java-end-of-file/problem) </center> | <center> 10 </center> | <center> [Solution](./Java/JavaLoops2.java) </center> | <center> 2019-04-24 </center>
+|<center> Introduction </center> | <center> [Java Static Initializer Block](https://www.hackerrank.com/challenges/java-static-initializer-block/problem) </center> | <center> 10 </center> | <center> [Solution](./Java/JavaStaticInitializerBlock.java) </center> | <center> 2019-04-25 </center>
 
 
 ## Python
