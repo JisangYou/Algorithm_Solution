@@ -48,6 +48,7 @@
 |<center> Introduction </center> | <center> [Java Datatypes](https://www.hackerrank.com/challenges/java-datatypes/problem) </center> | <center> 10 </center> | <center> [Solution](./Java/JavaDatatypes.java) </center> | <center> 2019-04-23 </center>
 |<center> Introduction </center> | <center> [Java End-of-file](https://www.hackerrank.com/challenges/java-end-of-file/problem) </center> | <center> 10 </center> | <center> [Solution](./Java/JavaLoops2.java) </center> | <center> 2019-04-24 </center>
 |<center> Introduction </center> | <center> [Java Static Initializer Block](https://www.hackerrank.com/challenges/java-static-initializer-block/problem) </center> | <center> 10 </center> | <center> [Solution](./Java/JavaStaticInitializerBlock.java) </center> | <center> 2019-04-25 </center>
+|<center> Introduction </center> | <center> [Java Int to String](https://www.hackerrank.com/challenges/java-int-to-string/problem) </center> | <center> 10 </center> | <center> [Solution](./Java/JavaIntToString.java) </center> | <center> 2019-04-25 </center>
 
 
 ## Python
@@ -79,11 +80,6 @@
 |<center> Basic Select </center> | <center> [Japanese Cities' Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem) </center> | <center> 10 </center> | <center> [Solution](./SQL/JapaneseCities'Attributes.sql) </center> | <center> 2019-03-23 </center>
 
 
-## Scala
-
-| <center> Subdomain </center> | <center> Challenge </center> | <center> Points </center> | <center> Solution </center> | <center> Date </center> |
-|:--------:|:--------:|:--------:|:--------:|:--------:|
-
 ## SHELL
 
 |<center> Subdomain </center> | <center> Challenge </center> | <center> Points </center> | <center> Solution </center> | <center> Date </center> |
@@ -92,3 +88,9 @@
 |<center> Bash </center> | <center> [A Personalized Echo](https://github.com/youjisang/Linux_Practice/blob/master/APersonalizedEcho.sh) </center> | <center> 1 </center> | <center> [Solution](./Python/helloWorld.py) </center> | <center> 2019-03-24 </center>
 |<center> Bash </center> | <center> [Looping with Numbers](https://github.com/youjisang/Linux_Practice/blob/master/LoopingWithNumbers.sh) </center> | <center> 2 </center> | <center> [Solution](./Python/helloWorld.py) </center> | <center> 2019-03-24 </center>
 |<center> Bash </center> | <center> [The World of Numbers](https://github.com/youjisang/Linux_Practice/blob/master/TheWorldOfNumbers.sh) </center> | <center> 2 </center> | <center> [Solution](./Python/helloWorld.py) </center> | <center> 2019-03-25 </center>
+
+
+## Scala
+
+| <center> Subdomain </center> | <center> Challenge </center> | <center> Points </center> | <center> Solution </center> | <center> Date </center> |
+|:--------:|:--------:|:--------:|:--------:|:--------:|
