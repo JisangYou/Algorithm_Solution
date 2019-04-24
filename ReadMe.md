@@ -45,7 +45,8 @@
 |<center> Introduction </center> | <center> [Java Stdin and Stdout II](https://www.hackerrank.com/challenges/java-stdin-stdout/problem) </center> | <center> 10 </center> | <center> [Solution](./Java/JavaStdinandStdoutII.java) </center> | <center> 2019-04-12 </center>
 |<center> Introduction </center> | <center> [Java Output Formatting](https://www.hackerrank.com/challenges/java-output-formatting/problem) </center> | <center> 10 </center> | <center> [Solution](./Java/JavaOutputFormatting.java) </center> | <center> 2019-04-15 </center>
 |<center> Introduction </center> | <center> [Java Loops 1](https://www.hackerrank.com/challenges/java-loops-i/problem) </center> | <center> 10 </center> | <center> [Solution](./Java/JavaLoops1.java) </center> | <center> 2019-04-15 </center>
-|<center> Introduction </center> | <center> [Java Loops 2](https://www.hackerrank.com/challenges/java-loops/problem) </center> | <center> 10 </center> | <center> [Solution](./Java/JavaLoops2.java) </center> | <center> 2019-04-15 </center>
+|<center> Introduction </center> | <center> [Java Datatypes](https://www.hackerrank.com/challenges/java-datatypes/problem) </center> | <center> 10 </center> | <center> [Solution](./Java/JavaDatatypes.java) </center> | <center> 2019-04-23 </center>
+|<center> Introduction </center> | <center> [Java End-of-file](https://www.hackerrank.com/challenges/java-end-of-file/problem) </center> | <center> 10 </center> | <center> [Solution](./Java/JavaLoops2.java) </center> | <center> 2019-04-24 </center>
 
 
 ## Python
