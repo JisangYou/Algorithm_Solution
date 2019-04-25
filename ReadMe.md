@@ -49,6 +49,7 @@
 |<center> Introduction </center> | <center> [Java End-of-file](https://www.hackerrank.com/challenges/java-end-of-file/problem) </center> | <center> 10 </center> | <center> [Solution](./Java/JavaLoops2.java) </center> | <center> 2019-04-24 </center>
 |<center> Introduction </center> | <center> [Java Static Initializer Block](https://www.hackerrank.com/challenges/java-static-initializer-block/problem) </center> | <center> 10 </center> | <center> [Solution](./Java/JavaStaticInitializerBlock.java) </center> | <center> 2019-04-25 </center>
 |<center> Introduction </center> | <center> [Java Int to String](https://www.hackerrank.com/challenges/java-int-to-string/problem) </center> | <center> 10 </center> | <center> [Solution](./Java/JavaIntToString.java) </center> | <center> 2019-04-25 </center>
+|<center> Introduction </center> | <center> [Java Int to String](https://www.hackerrank.com/challenges/java-date-and-time/problem) </center> | <center> 15 </center> | <center> [Solution](./Java/JavaDateAndTime.java) </center> | <center> 2019-04-25 </center>
 
 
 ## Python
