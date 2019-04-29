@@ -51,9 +51,10 @@
 |<center> Introduction </center> | <center> [Java Int to String](https://www.hackerrank.com/challenges/java-int-to-string/problem) </center> | <center> 10 </center> | <center> [Solution](./Java/JavaIntToString.java) </center> | <center> 2019-04-25 </center>
 |<center> Introduction </center> | <center> [Java Date and Time](https://www.hackerrank.com/challenges/java-date-and-time/problem) </center> | <center> 15 </center> | <center> [Solution](./Java/JavaDateAndTime.java) </center> | <center> 2019-04-25 </center>
 |<center> Introduction </center> | <center> [Java Currency Formatter](https://www.hackerrank.com/challenges/java-currency-formatter/problem) </center> | <center> 15 </center> | <center> [Solution](./Java/JavaCurrencyFormatter.java) </center> | <center> 2019-04-27 </center>
-|<center> Introduction </center> | <center> [Java Strings Introduction](https://www.hackerrank.com/challenges/java-strings-introduction/problem) </center> | <center> 5 </center> | <center> [Solution](./Java/JavaStringsIntroduction.java) </center> | <center> 2019-04-27 </center>
-|<center> Introduction </center> | <center> [Java Substring](https://www.hackerrank.com/challenges/java-substring/problem) </center> | <center> 5 </center> | <center> [Solution](./Java/JavaSubstring.java) </center> | <center> 2019-04-27 </center>
-|<center> Introduction </center> | <center> [Java Substring Comparisons](https://www.hackerrank.com/challenges/java-string-compare/problem) </center> | <center> 10 </center> | <center> [Solution](./Java/JavaSubstringCmparisons.java) </center> | <center> 2019-04-27 </center>
+|<center> Strings </center> | <center> [Java Strings Introduction](https://www.hackerrank.com/challenges/java-strings-introduction/problem) </center> | <center> 5 </center> | <center> [Solution](./Java/JavaStringsIntroduction.java) </center> | <center> 2019-04-27 </center>
+|<center> Strings </center> | <center> [Java Substring](https://www.hackerrank.com/challenges/java-substring/problem) </center> | <center> 5 </center> | <center> [Solution](./Java/JavaSubstring.java) </center> | <center> 2019-04-27 </center>
+|<center> Strings </center> | <center> [Java Substring Comparisons](https://www.hackerrank.com/challenges/java-string-compare/problem) </center> | <center> 10 </center> | <center> [Solution](./Java/JavaSubstringCmparisons.java) </center> | <center> 2019-04-27 </center>
+|<center> Strings </center> | <center> [Java String Reverse](https://www.hackerrank.com/challenges/java-string-reverse/problem) </center> | <center> 10 </center> | <center> [Solution](./Java/JavaStringReverse.java) </center> | <center> 2019-04-29 </center>
 
 
 
