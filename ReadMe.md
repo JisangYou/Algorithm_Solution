@@ -86,7 +86,7 @@
 |<center> Basic Select </center> | <center> [SelectByID](https://www.hackerrank.com/challenges/select-by-id/problem) </center> | <center> 10 </center> | <center> [Solution](./SQL/SelectByID.sql) </center> | <center> 2019-03-23 </center>
 |<center> Basic Select </center> | <center> [Japanese Cities' Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem) </center> | <center> 10 </center> | <center> [Solution](./SQL/JapaneseCities'Attributes.sql) </center> | <center> 2019-03-23 </center>
 |<center> Basic Select </center> | <center> [Weather Observation Station 1](https://www.hackerrank.com/challenges/weather-observation-station-1/problem) </center> | <center> 15 </center> | <center> [Solution](./SQL/WeatherObservationStation1.sql) </center> | <center> 2019-05-01 </center>
-|<center> Basic Select </center> | <center> [Weather Observation Station 1](https://www.hackerrank.com/challenges/weather-observation-station-3/problem) </center> | <center> 10 </center> | <center> [Solution](./SQL/WeatherObservationStation3.sql) </center> | <center> 2019-05-01 </center>
+|<center> Basic Select </center> | <center> [Weather Observation Station 3](https://www.hackerrank.com/challenges/weather-observation-station-3/problem) </center> | <center> 10 </center> | <center> [Solution](./SQL/WeatherObservationStation3.sql) </center> | <center> 2019-05-01 </center>
 
 
 ## SHELL
