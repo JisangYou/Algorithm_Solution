@@ -58,6 +58,8 @@
 |<center> Strings </center> | <center> [Java Anagrams](https://www.hackerrank.com/challenges/java-anagrams/problem) </center> | <center> 10 </center> | <center> [Solution](./Java/JavaAnagrams.java) </center> | <center> 2019-04-30 </center>
 |<center> Strings </center> | <center> [Java String Tokens](https://www.hackerrank.com/challenges/java-string-tokens/problem) </center> | <center> 15 </center> | <center> [Solution](./Java/JavaStringTokens.java) </center> | <center> 2019-05-06 </center>
 |<center> Strings </center> | <center> [Pattern Syntax Checker](https://www.hackerrank.com/challenges/pattern-syntax-checker/problem) </center> | <center> 20 </center> | <center> [Solution](./Java/PatternSyntaxChecker.java) </center> | <center> 2019-05-17 </center>
+|<center> Strings </center> | <center> [Java Regex](https://www.hackerrank.com/challenges/java-regex/problem) </center> | <center> 25 </center> | <center> [Solution](./Java/JavaRegex.java) </center> | <center> 2019-06-04 </center>
+
 
 
 ## Python
