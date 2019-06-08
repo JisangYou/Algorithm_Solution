@@ -61,7 +61,7 @@
 |<center> Strings </center> | <center> [Java Regex](https://www.hackerrank.com/challenges/java-regex/problem) </center> | <center> 25 </center> | <center> [Solution](./Java/JavaRegex.java) </center> | <center> 2019-06-04 </center>
 |<center> Strings </center> | <center> [Java Regex 2 - Duplicate Words](https://www.hackerrank.com/challenges/duplicate-word/problem) </center> | <center> 25 </center> | <center> [Solution](./Java/JavaRegex2DuplicateWords.java) </center> | <center> 2019-06-05 </center>
 |<center> Strings </center> | <center> [Valid Username Regular Expression](https://www.hackerrank.com/challenges/valid-username-checker/problem) </center> | <center> 20 </center> | <center> [Solution](./Java/ValidUsernameRegularExpression.java) </center> | <center> 2019-06-06 </center>
-
+|<center> Strings </center> | <center> [Java Primality Test](https://www.hackerrank.com/challenges/java-primality-test/problem) </center> | <center> 20 </center> | <center> [Solution](./Java/JavaPrimalityTest.java) </center> | <center> 2019-06-08 </center>
 
 
 ## Python
