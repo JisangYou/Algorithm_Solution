@@ -64,6 +64,7 @@
 |<center> BigNumber </center> | <center> [Java Primality Test](https://www.hackerrank.com/challenges/java-primality-test/problem) </center> | <center> 20 </center> | <center> [Solution](./Java/JavaPrimalityTest.java) </center> | <center> 2019-06-08 </center>
 |<center> BigNumber </center> | <center> [Java BigInteger](https://www.hackerrank.com/challenges/java-biginteger/problem) </center> | <center> 10 </center> | <center> [Solution](./Java/JavaBigInteger.java) </center> | <center> 2019-06-09 </center>
 |<center> Strings </center> | <center> [Tag Content Extractor](https://www.hackerrank.com/challenges/tag-content-extractor/problem) </center> | <center> 20 </center> | <center> [Solution](./Java/TagContentExtractor.java) </center> | <center> 2019-06-09 </center>
+|<center> Data Structures </center> | <center> [Java 1D Array](https://www.hackerrank.com/challenges/java-1d-array-introduction/problem) </center> | <center> 5 </center> | <center> [Solution](./Java/Java1DArray.java) </center> | <center> 2019-06-11 </center>
 
 ## Python
 
