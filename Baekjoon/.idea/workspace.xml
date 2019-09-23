@@ -2,75 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07a01c84-f2a3-4b9f-9b8d-87a7d4507cac" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../30DaysofCode/Day0.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../30DaysofCode/Day1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../30DaysofCode/Day2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../30DaysofCode/Day3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../30DaysofCode/Day4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../30DaysofCode/Day5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../30DaysofCode/Day6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../30DaysofCode/Day7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../30DaysofCode/Day8.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../30DaysofCode/Day9.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms/AVeryBigSum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms/AppleAndOrange.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms/BirthdayCakeCandles.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms/BreakingTheRecords.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms/CompareTheTriplets.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms/DiagonalDifference.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms/GradingStudents.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms/Kangaroo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms/MiniMaxSum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms/PlusMinus.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms/SimpleArraySum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms/SolveMeFirst.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms/StairCase.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms/TimeConversion.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java/Java1DArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java/JavaAnagrams.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java/JavaBigInteger.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java/JavaCurrencyFormatter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java/JavaDatatypes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java/JavaDateAndTime.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java/JavaEndOfFile.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java/JavaIf-Else.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java/JavaIntToString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java/JavaLoops1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java/JavaLoops2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java/JavaOutputFormatting.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java/JavaPrimalityTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java/JavaRegex.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java/JavaRegex2DuplicateWords.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java/JavaStaticInitializerBlock.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java/JavaStdinandStdoutI.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java/JavaStdinandStdoutII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java/JavaStringReverse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java/JavaStringTokens.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java/JavaStringsIntroduction.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java/JavaSubstring.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java/JavaSubstringCmparisons.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java/PatternSyntaxChecker.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java/TagContentExtractor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java/ValidUsernameRegularExpression.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Python/ArithmeticOperators.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Python/FindTheRunnerUpScore.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Python/ListComprehensions.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Python/Lists.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Python/Loops.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Python/PrintFunction.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Python/PythonDivision.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Python/PythonIfElse.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Python/Tuples.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Python/WriteAFunction.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Python/helloWorld.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Python/sWAPcASE.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SQL/JapaneseCities'Attributes.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SQL/RevisingTheSelectQueryI.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SQL/RevisingTheSelectQueryII.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SQL/SelectAll.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SQL/SelectByID.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SQL/WeatherObservationStation1.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SQL/WeatherObservationStation3.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Etc/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Etc/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Etc/src/DP_exam_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Etc/src/DP_exam_1.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -84,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Sol_11047.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+            <state relative-caret-position="152">
+              <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -109,7 +43,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1912" />
     <option name="y" value="-4" />
     <option name="width" value="1936" />
@@ -162,8 +96,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-4" width="1936" height="1056" extended-state="7" />
-    <editor active="true" />
+    <frame x="1912" y="-4" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Favorites" side_tool="true" />
@@ -189,8 +122,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Sol_11047.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        <state relative-caret-position="152">
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="44" />
         </state>
       </provider>
     </entry>

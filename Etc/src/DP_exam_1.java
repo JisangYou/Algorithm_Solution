@@ -53,11 +53,18 @@ public class DP_exam_1 {
 
     static int min_change(int i) {
         int min = change[i - 1];
+        System.out.print("change[i - 1] === " + min);
         if (i >= 3) {
-            if (min > change[i - 3]) min = change[i - 3];
+            if (min > change[i - 3]) {
+                min = change[i - 3];
+                System.out.print("i >= 3, min === " + min);
+            }
         }
         if (i >= 4) {
-            if (min > change[i - 4]) min = change[i - 4];
+            if (min > change[i - 4]) {
+                min = change[i - 4];
+                System.out.print("i >= 4, min === " + min);
+            }
         }
         return min;
     }
