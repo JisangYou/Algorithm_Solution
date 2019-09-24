@@ -4,7 +4,7 @@ import java.util.Map;
 import java.util.Scanner;
 
 
-class Solution {
+class Solution1 {
 
     /**
      * @param participant
@@ -37,6 +37,8 @@ class Solution {
      * @param completion
      * @return map을 통한 풀이
      * 그러나 시간이 오래걸려서 탈락.
+     *
+     * map.getOrDefault 학습 필요.
      */
     public String solution(String[] participant, String[] completion) {
         String answer = "";
@@ -72,7 +74,7 @@ class Solution {
         String[] participant = participant_str.substring(1, participant_str.indexOf("]")).replaceAll(" ", "").split(",");
         String[] completion = completion_str.substring(1, completion_str.indexOf("]")).replaceAll(" ", "").split(",");
 
-        Solution sol = new Solution();
+        Solution1 sol = new Solution1();
         System.out.print(sol.solution(participant, completion));
 
     }
