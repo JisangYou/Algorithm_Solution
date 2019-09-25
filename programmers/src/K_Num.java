@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Solution2 {
+class K_Num {
 
     /**
      *
@@ -37,7 +37,7 @@ class Solution2 {
 
         int[] array = new int[]{1, 5, 2, 6, 3, 7, 4};
         int[][] commands = new int[][]{{2, 5, 3}, {4, 4, 1}, {1, 7, 3}};
-        Solution2 sol = new Solution2();
+        K_Num sol = new K_Num();
         sol.solution(array, commands);
 
     }

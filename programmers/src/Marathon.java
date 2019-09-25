@@ -4,7 +4,7 @@ import java.util.Map;
 import java.util.Scanner;
 
 
-class Solution1 {
+class Marathon {
 
     /**
      * @param participant
@@ -36,7 +36,7 @@ class Solution1 {
      * @param participant
      * @param completion
      * @return map을 통한 풀이
-     * 그러나 시간이 오래걸려서 탈락.
+     *
      *
      * map.getOrDefault 학습 필요.
      */
@@ -74,7 +74,7 @@ class Solution1 {
         String[] participant = participant_str.substring(1, participant_str.indexOf("]")).replaceAll(" ", "").split(",");
         String[] completion = completion_str.substring(1, completion_str.indexOf("]")).replaceAll(" ", "").split(",");
 
-        Solution1 sol = new Solution1();
+        Marathon sol = new Marathon();
         System.out.print(sol.solution(participant, completion));
 
     }
