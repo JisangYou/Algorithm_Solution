@@ -9,8 +9,6 @@ public class DeleteSmallNum {
         int[] answer = {};
         ArrayList list = new ArrayList();
         answer = new int[arr.length - 1];
-        Arrays.sort(arr);
-        int min = arr[0];
 
         if (arr.length <= 1) {
             return new int[]{-1};
@@ -20,8 +18,11 @@ public class DeleteSmallNum {
             list.add(arr[i]);
         }
 
+        Arrays.sort(arr);
+        int min = arr[0];
+
+//        list.remove(min); -> 이것 떄문에 계속 막혔음..
         list.remove(list.indexOf(min));
-//        list.remove(min);
 
         for (int i = 0; i < list.size(); i++) {
             answer[i] = (int) list.get(i);
