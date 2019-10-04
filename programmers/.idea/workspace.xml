@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ee62993-835a-4dbc-a6af-7b80df3acc36" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/HidePhoneNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SumAndAvg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DivisorArr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OddEven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SquareRoot.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -15,18 +16,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Marathon.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="326">
-              <caret line="42" column="42" selection-start-line="42" selection-start-column="42" selection-end-line="42" selection-end-column="42" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/K_Num.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -40,7 +29,7 @@
         <entry file="file://$PROJECT_DIR$/src/HateSameNum.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="440">
-              <caret line="93" column="34" lean-forward="true" selection-start-line="93" selection-start-column="8" selection-end-line="93" selection-end-column="34" />
+              <caret line="93" column="34" selection-start-line="93" selection-start-column="8" selection-end-line="93" selection-end-column="34" />
               <folding>
                 <element signature="e#817#826#0" expanded="true" />
               </folding>
@@ -67,24 +56,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MiddleStr.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="16" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/StrBasic.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="302">
-              <caret line="32" column="28" lean-forward="true" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/lang/String.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="197">
@@ -102,11 +73,41 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/HidePhoneNum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="16" column="40" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
+            <state relative-caret-position="323">
+              <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/OddEven.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DivisorArr.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/SquareRoot.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="14" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -141,12 +142,16 @@
         <option value="$PROJECT_DIR$/src/DeleteSmallNum.java" />
         <option value="$PROJECT_DIR$/src/SumAndAvg.java" />
         <option value="$PROJECT_DIR$/src/HidePhoneNum.java" />
+        <option value="$PROJECT_DIR$/src/OddNum.java" />
+        <option value="$PROJECT_DIR$/src/OddEven.java" />
+        <option value="$PROJECT_DIR$/src/DivisorArr.java" />
+        <option value="$PROJECT_DIR$/src/SquareRoot.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1628" />
-    <option name="y" value="52" />
+    <option name="x" value="-158" />
+    <option name="y" value="-14" />
     <option name="width" value="1936" />
     <option name="height" value="1096" />
   </component>
@@ -195,7 +200,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.HidePhoneNum">
+  <component name="RunManager" selected="Application.SquareRoot">
     <configuration name="DeleteSmallNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DeleteSmallNum" />
       <module name="programmers" />
@@ -203,15 +208,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FactorSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FactorSum" />
-      <module name="programmers" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HateSameNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HateSameNum" />
+    <configuration name="DivisorArr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DivisorArr" />
       <module name="programmers" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -224,27 +222,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumBetweenNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SumBetweenNum" />
+    <configuration name="OddEven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OddEven" />
+      <module name="programmers" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SquareRoot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SquareRoot" />
       <module name="programmers" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.SumBetweenNum" />
-      <item itemvalue="Application.HateSameNum" />
-      <item itemvalue="Application.FactorSum" />
       <item itemvalue="Application.DeleteSmallNum" />
+      <item itemvalue="Application.DivisorArr" />
       <item itemvalue="Application.HidePhoneNum" />
+      <item itemvalue="Application.OddEven" />
+      <item itemvalue="Application.SquareRoot" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SquareRoot" />
+        <item itemvalue="Application.DivisorArr" />
+        <item itemvalue="Application.OddEven" />
         <item itemvalue="Application.HidePhoneNum" />
         <item itemvalue="Application.DeleteSmallNum" />
-        <item itemvalue="Application.FactorSum" />
-        <item itemvalue="Application.HateSameNum" />
-        <item itemvalue="Application.SumBetweenNum" />
       </list>
     </recent_temporary>
   </component>
@@ -322,7 +327,14 @@
       <option name="project" value="LOCAL" />
       <updated>1570087535850</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="SumAndAvg, HidePhoneNum">
+      <created>1570089727827</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1570089727827</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -366,7 +378,8 @@
     <MESSAGE value="StrBasic, HateSameNum" />
     <MESSAGE value="DigitSum, HateSameNum, FactorSum" />
     <MESSAGE value="DeleteSmallNum" />
-    <option name="LAST_COMMIT_MESSAGE" value="DeleteSmallNum" />
+    <MESSAGE value="SumAndAvg, HidePhoneNum" />
+    <option name="LAST_COMMIT_MESSAGE" value="SumAndAvg, HidePhoneNum" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/Map.java" />
@@ -469,7 +482,7 @@
     <entry file="file://$PROJECT_DIR$/src/HateSameNum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="440">
-          <caret line="93" column="34" lean-forward="true" selection-start-line="93" selection-start-column="8" selection-end-line="93" selection-end-column="34" />
+          <caret line="93" column="34" selection-start-line="93" selection-start-column="8" selection-end-line="93" selection-end-column="34" />
           <folding>
             <element signature="e#817#826#0" expanded="true" />
           </folding>
@@ -483,13 +496,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/StrToInt.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" selection-start-line="1" selection-end-line="16" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="197">
@@ -499,8 +505,39 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/HidePhoneNum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="16" column="40" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
+        <state relative-caret-position="323">
+          <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OddEven.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DivisorArr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StrToInt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" selection-start-line="1" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SquareRoot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="14" selection-end-column="22" />
         </state>
       </provider>
     </entry>
