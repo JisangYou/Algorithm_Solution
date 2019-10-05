@@ -1,7 +1,7 @@
 public class SquareRoot {
     public long solution(long n) {
         long answer = 0;
-        double num = (double) Math.sqrt(n);
+        double num = Math.sqrt(n);
         int compareNum = (int) num;
 
         if (num != compareNum) {
