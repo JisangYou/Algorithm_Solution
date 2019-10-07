@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ee62993-835a-4dbc-a6af-7b80df3acc36" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/GcdLcm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrimeNum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PrimeNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PrimeNum.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -72,8 +71,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/PrimeNum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+            <state relative-caret-position="359">
+              <caret line="32" column="19" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="32" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -95,23 +94,6 @@
               <folding>
                 <element signature="e#72462#72463#0" expanded="true" />
                 <element signature="e#72509#72510#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/Date.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="165" column="11" selection-start-line="165" selection-start-column="11" selection-end-line="165" selection-end-column="11" />
-              <folding>
-                <element signature="e#6467#6468#0" expanded="true" />
-                <element signature="e#6515#6516#0" expanded="true" />
-                <element signature="e#6916#6917#0" expanded="true" />
-                <element signature="e#6947#6948#0" expanded="true" />
-                <element signature="e#7619#7620#0" expanded="true" />
-                <element signature="e#7667#7668#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -196,7 +178,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569554809281" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../InterMediate/DS&amp;AL_Java/Array/src/PrimeNumber3.java" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -375,7 +357,14 @@
       <option name="project" value="LOCAL" />
       <updated>1570355893891</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="GcdLcm, PrimeNum">
+      <created>1570460263550</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1570460263550</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -423,7 +412,8 @@
     <MESSAGE value="DivisorArr, OddEven, SquareRoot" />
     <MESSAGE value="StrDescend" />
     <MESSAGE value="ReverseNum,CalendarMD" />
-    <option name="LAST_COMMIT_MESSAGE" value="ReverseNum,CalendarMD" />
+    <MESSAGE value="GcdLcm, PrimeNum" />
+    <option name="LAST_COMMIT_MESSAGE" value="GcdLcm, PrimeNum" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/Map.java" />
@@ -661,10 +651,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../../InterMediate/DS&amp;AL_Java/Array/src/PrimeNumber3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="26" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/PrimeNum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+        <state relative-caret-position="359">
+          <caret line="32" column="19" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="32" selection-end-column="19" />
         </state>
       </provider>
     </entry>
