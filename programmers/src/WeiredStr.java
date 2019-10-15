@@ -1,6 +1,7 @@
-
-
 public class WeiredStr {
+
+    // 이상한 문자 만들기
+
     public String solution(String s) {
         String[] s_arr = s.split("");
         StringBuilder sb = new StringBuilder();
