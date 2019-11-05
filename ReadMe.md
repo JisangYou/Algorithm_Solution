@@ -1,5 +1,14 @@
-# Hackerrank
+# programmers
 
+| <center>Day</center> | <center>Problem</center> | <center>Points</center> | <center>Solution</center> | <center>Date</center> |
+|:--------:|:--------:|:--------:|:--------:|:--------:|
+
+# leetcode
+
+| <center>Day</center> | <center>Problem</center> | <center>Points</center> | <center>Solution</center> | <center>Date</center> |
+|:--------:|:--------:|:--------:|:--------:|:--------:|
+
+# Hackerrank
 
 ## 30 Days of Code
 
