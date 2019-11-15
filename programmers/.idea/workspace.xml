@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ee62993-835a-4dbc-a6af-7b80df3acc36" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/gymSuit.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../leetcode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetcode/out/production/leetcode/longestCommonPrefix.class" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode/out/production/leetcode/longestCommonPrefix.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gymSuit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gymSuit.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,8 +27,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/gymSuit.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="178">
-              <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+            <state relative-caret-position="171">
+              <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -216,9 +215,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.gymSuit">
+  <component name="RunManager" selected="Application.GymSuit">
     <configuration name="CaesarCipher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CaesarCipher" />
+      <module name="programmers" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GymSuit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GymSuit" />
       <module name="programmers" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -245,23 +251,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="gymSuit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gymSuit" />
-      <module name="programmers" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.CaesarCipher" />
       <item itemvalue="Application.IntegerDesc" />
       <item itemvalue="Application.WeiredStr" />
       <item itemvalue="Application.XintervalNnum" />
-      <item itemvalue="Application.gymSuit" />
+      <item itemvalue="Application.GymSuit" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.gymSuit" />
+        <item itemvalue="Application.GymSuit" />
         <item itemvalue="Application.CaesarCipher" />
         <item itemvalue="Application.IntegerDesc" />
         <item itemvalue="Application.WeiredStr" />
@@ -441,7 +440,21 @@
       <option name="project" value="LOCAL" />
       <updated>1572965918255</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="gymSuit, greedy 문제 ~ing">
+      <created>1573484293938</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1573484293938</updated>
+    </task>
+    <task id="LOCAL-00025" summary="gymSuit, greedy 문제 ~ing">
+      <created>1573484852475</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1573484852476</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -496,7 +509,8 @@
     <MESSAGE value="WeiredStr" />
     <MESSAGE value="CaesarCipher, IntegerDesc" />
     <MESSAGE value="MatrixSum ~ing" />
-    <option name="LAST_COMMIT_MESSAGE" value="MatrixSum ~ing" />
+    <MESSAGE value="gymSuit, greedy 문제 ~ing" />
+    <option name="LAST_COMMIT_MESSAGE" value="gymSuit, greedy 문제 ~ing" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/Map.java" />
@@ -803,8 +817,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/gymSuit.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+        <state relative-caret-position="171">
+          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
         </state>
       </provider>
     </entry>
