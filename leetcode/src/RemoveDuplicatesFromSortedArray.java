@@ -23,7 +23,7 @@ public class RemoveDuplicatesFromSortedArray {
         return index;
 
         /**
-         *
+         * 다른 사람의 풀이
          */
 
 //        if (nums.length == 0) return 0;
