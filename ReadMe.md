@@ -1,24 +1,24 @@
 # Programmers
 
-| <center>Day</center> | <center>Problem</center> | <center>Level</center> | <center>Solution</center> | <center>Date</center> |
-|:--------:|:--------:|:--------:|:--------:|:--------:|
-| <center>0</center> | <center>[완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576) </center> | <center>1</center> | <center>[Solution](./programmers/src/Marathon.java)</center> | <center>2019-09-23</center>
-| <center>1</center> | <center>[K번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748) </center> | <center>1</center> | <center>[Solution](./programmers/src/K_Num.java)</center> | <center>2019-09-24</center>
-| <center>2</center> | <center>[가운데 문자 뽑기](https://programmers.co.kr/learn/courses/30/lessons/12903) </center> | <center>1</center> | <center>[Solution](./programmers/src/MiddleStr.java)</center> | <center>2019-09-25</center>
-| <center>3</center> | <center>[서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919) </center> | <center>1</center> | <center>[Solution](./programmers/src/Kim.java)</center> | <center>2019-09-26</center>
-| <center>4</center> | <center>[수박수박수박수박수박수?](https://programmers.co.kr/learn/courses/30/lessons/12922) </center> | <center>1</center> | <center>[Solution](./programmers/src/WaterMellon.java)</center> | <center>2019-09-26</center>
-| <center>5</center> | <center>[문자열을 정수로 바꾸기](https://programmers.co.kr/learn/courses/30/lessons/12925) </center> | <center>1</center> | <center>[Solution](./programmers/src/StrToInt.java)</center> | <center>2019-09-26</center>
-| <center>6</center> | <center>[문자열 내 p와 y의 개수](https://programmers.co.kr/learn/courses/30/lessons/12916) </center> | <center>1</center> | <center>[Solution](./programmers/src/CountPY.java)</center> | <center>2019-09-27</center>
-| <center>7</center> | <center>[같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906) </center> | <center>1</center> | <center>[Solution](./programmers/src/HateSameNum.java)</center> | <center>2019-09-30</center>
-| <center>8</center> | <center>[문자열 다루기 기본](https://programmers.co.kr/learn/courses/30/lessons/12918) </center> | <center>1</center> | <center>[Solution](./programmers/src/StrBasic.java)</center> | <center>2019-09-30</center>
-| 
+| <center>Problem</center> | <center>Level</center> | <center>Solution</center> | <center>Date</center> |
+|:--------:|:--------:|:--------:|:--------:|
+| <center>[완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576) </center> | <center>1</center> | <center>[Solution](./programmers/src/Marathon.java)</center> | <center>2019-09-23</center>
+| <center>[K번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748) </center> | <center>1</center> | <center>[Solution](./programmers/src/K_Num.java)</center> | <center>2019-09-24</center>
+| <center>[가운데 문자 뽑기](https://programmers.co.kr/learn/courses/30/lessons/12903) </center> | <center>1</center> | <center>[Solution](./programmers/src/MiddleStr.java)</center> | <center>2019-09-25</center>
+| <center>[서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919) </center> | <center>1</center> | <center>[Solution](./programmers/src/Kim.java)</center> | <center>2019-09-26</center>
+| <center>[수박수박수박수박수박수?](https://programmers.co.kr/learn/courses/30/lessons/12922) </center> | <center>1</center> | <center>[Solution](./programmers/src/WaterMellon.java)</center> | <center>2019-09-26</center>
+| <center>[문자열을 정수로 바꾸기](https://programmers.co.kr/learn/courses/30/lessons/12925) </center> | <center>1</center> | <center>[Solution](./programmers/src/StrToInt.java)</center> | <center>2019-09-26</center>
+| <center>[문자열 내 p와 y의 개수](https://programmers.co.kr/learn/courses/30/lessons/12916) </center> | <center>1</center> | <center>[Solution](./programmers/src/CountPY.java)</center> | <center>2019-09-27</center>
+| <center>[같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906) </center> | <center>1</center> | <center>[Solution](./programmers/src/HateSameNum.java)</center> | <center>2019-09-30</center>
+| <center>[문자열 다루기 기본](https://programmers.co.kr/learn/courses/30/lessons/12918) </center> | <center>1</center> | <center>[Solution](./programmers/src/StrBasic.java)</center> | <center>2019-09-30</center>
+
 
 
 
 # Leetcode
 
-| <center>Day</center> | <center>Problem</center> | <center>Level</center> | <center>Solution</center> | <center>Date</center> |
-|:--------:|:--------:|:--------:|:--------:|:--------:|
+| <center>Problem</center> | <center>Level</center> | <center>Solution</center> | <center>Date</center> |
+|:--------:|:--------:|:--------:|:--------:|
 
 # Hackerrank
 
