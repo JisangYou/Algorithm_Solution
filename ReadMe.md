@@ -1,7 +1,7 @@
 # Programmers
 
 | <center>Problem</center> | <center>Type</center> | <center>Level</center> | <center>Solution</center> | <center>Date</center> |
-|:--------:|:--------:|:--------:|:--------:|
+|:--------:|:--------:|:--------:|:--------:|:--------:|
 | <center>[완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576) </center> | <center>해시</center> | <center>1</center> | <center>[Solution](./programmers/src/Marathon.java)</center> | <center>2019-09-23</center>
 | <center>[K번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748) </center> | <center>정렬</center> |<center>1</center> | <center>[Solution](./programmers/src/K_Num.java)</center> | <center>2019-09-24</center>
 | <center>[가운데 문자 뽑기](https://programmers.co.kr/learn/courses/30/lessons/12903) </center> | <center>연습</center> |<center>1</center> | <center>[Solution](./programmers/src/MiddleStr.java)</center> | <center>2019-09-25</center>
@@ -39,7 +39,7 @@
 # Leetcode
 
 | <center>Problem</center> | <center>num</center> | <center>Type</center> |<center>Solution</center> | <center>Date</center> |
-|:--------:|:--------:|:--------:|:--------:|
+|:--------:|:--------:|:--------:|:--------:|:--------:|
 | <center>[Two Sum](https://leetcode.com/problems/two-sum/) </center> | <center>1</center> | <center> - </center> | <center>[Solution](./leetcode/src/TwoSum.java)</center> | <center>2019-10-24</center>
 | <center>[Reverse Integer](https://leetcode.com/problems/reverse-integer/) </center> | <center>7</center> | <center> - </center> | <center>[Solution](./leetcode/src/ReverseInteger.java)</center> | <center>2019-10-26</center>
 | <center>[Palindrome Number](https://leetcode.com/problems/palindrome-number/) </center> | <center>9</center> | <center> - </center> | <center>[Solution](./leetcode/src/PalindromeNumber.java)</center> | <center>2019-10-26</center>
