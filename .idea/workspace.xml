@@ -1,78 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0cf9cdbd-0929-485a-a895-11c801e2b30d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/baekjoon/src/G_S11047.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/30DaysofCode/Day0.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/30DaysofCode/Day1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/30DaysofCode/Day2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/30DaysofCode/Day3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/30DaysofCode/Day4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/30DaysofCode/Day5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/30DaysofCode/Day6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/30DaysofCode/Day7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/30DaysofCode/Day8.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/30DaysofCode/Day9.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms/AVeryBigSum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms/AppleAndOrange.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms/BirthdayCakeCandles.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms/BreakingTheRecords.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms/CompareTheTriplets.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms/DiagonalDifference.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms/GradingStudents.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms/Kangaroo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms/MiniMaxSum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms/PlusMinus.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms/SimpleArraySum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms/SolveMeFirst.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms/StairCase.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms/TimeConversion.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/Java1DArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/JavaAnagrams.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/JavaBigInteger.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/JavaCurrencyFormatter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/JavaDatatypes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/JavaDateAndTime.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/JavaEndOfFile.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/JavaIf-Else.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/JavaIntToString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/JavaLoops1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/JavaLoops2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/JavaOutputFormatting.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/JavaPrimalityTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/JavaRegex.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/JavaRegex2DuplicateWords.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/JavaStaticInitializerBlock.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/JavaStdinandStdoutI.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/JavaStdinandStdoutII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/JavaStringReverse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/JavaStringTokens.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/JavaStringsIntroduction.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/JavaSubstring.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/JavaSubstringCmparisons.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/PatternSyntaxChecker.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/TagContentExtractor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/ValidUsernameRegularExpression.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/ArithmeticOperators.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/FindTheRunnerUpScore.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/ListComprehensions.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/Lists.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/Loops.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/PrintFunction.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/PythonDivision.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/PythonIfElse.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/Tuples.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/WriteAFunction.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/helloWorld.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/sWAPcASE.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SQL/JapaneseCities'Attributes.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SQL/RevisingTheSelectQueryI.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SQL/RevisingTheSelectQueryII.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SQL/SelectAll.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SQL/SelectByID.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SQL/WeatherObservationStation1.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SQL/WeatherObservationStation3.sql" beforeDir="false" />
-    </list>
+    <list default="true" id="0cf9cdbd-0929-485a-a895-11c801e2b30d" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -84,8 +13,8 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1912" />
-    <option name="y" value="-4" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
@@ -97,7 +26,17 @@
     <panes>
       <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Algorithm_Solution" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithm_Solution" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -132,9 +71,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-4" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
