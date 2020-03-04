@@ -14,22 +14,22 @@ public class Node {
 // A Java program to introduce Binary Tree
 class BinaryTree {
     // Root of Binary Tree
-    Node root;
+    Node node;
 
     // Constructors
     BinaryTree(int key) {
-        root = new Node(key);
+        node = new Node(key);
     }
 
     BinaryTree() {
-        root = null;
+        node = null;
     }
 
     public static void main(String[] args) {
-        BinaryTree tree = new BinaryTree();
+        BinaryTree binaryTree = new BinaryTree();
 
         /*create root*/
-        tree.root = new Node(1);
+        binaryTree.node = new Node(1);
 
         /* following is the tree after above statement
 
@@ -37,8 +37,8 @@ class BinaryTree {
             /   \
           null  null     */
 
-        tree.root.left = new Node(2);
-        tree.root.right = new Node(3);
+        binaryTree.node.left = new Node(2);
+        binaryTree.node.right = new Node(3);
 
         /* 2 and 3 become left and right children of 1
                1
@@ -48,7 +48,7 @@ class BinaryTree {
         null null null null  */
 
 
-        tree.root.left.left = new Node(4);
+        binaryTree.node.left.left = new Node(4);
         /* 4 becomes left child of 2
                     1
                 /       \
