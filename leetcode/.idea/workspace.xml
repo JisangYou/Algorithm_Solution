@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62d89168-6242-45c1-81cb-ddb0074c4a6b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../geeksforgeeks/src/Queue/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../geeksforgeeks/src/Queue/QNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RecentCounter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../geeksforgeeks/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../geeksforgeeks/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../geeksforgeeks/out/production/geeksforgeeks/Queue/Queue.class" beforeDir="false" afterPath="$PROJECT_DIR$/../geeksforgeeks/out/production/geeksforgeeks/Queue/Queue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../geeksforgeeks/out/production/geeksforgeeks/Queue/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/../geeksforgeeks/out/production/geeksforgeeks/Queue/Test.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,12 +30,6 @@
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
-  </component>
   <component name="ProjectId" id="1X1sR2CDO3vMXNu6j7ulZ37vlps" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -44,7 +41,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.SameTree">
+  <component name="RunManager" selected="Application.RecentCounter">
     <configuration name="ImplementStrStr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ImplementStrStr" />
       <module name="leetcode" />
@@ -59,8 +56,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveDuplicatesFromSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RemoveDuplicatesFromSortedArray" />
+    <configuration name="RecentCounter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RecentCounter" />
       <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -82,11 +79,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RecentCounter" />
         <item itemvalue="Application.SameTree" />
         <item itemvalue="Application.LengthOfLastWord" />
         <item itemvalue="Application.SearchInsertPosition" />
         <item itemvalue="Application.ImplementStrStr" />
-        <item itemvalue="Application.RemoveDuplicatesFromSortedArray" />
       </list>
     </recent_temporary>
   </component>
@@ -183,30 +180,38 @@
     <option name="LAST_COMMIT_MESSAGE" value="RemoveDuplicatesFromSortedArray" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1398" height="244" key="GridCell.Tab.0.bottom" timestamp="1580311369389">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1398" height="205" key="GridCell.Tab.0.bottom" timestamp="1583470449155">
+      <screen x="0" y="23" width="1440" height="798" />
     </state>
     <state width="1398" height="244" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1580311369389" />
-    <state width="1398" height="206" key="GridCell.Tab.0.bottom/0.23.1440.806@0.23.1440.806" timestamp="1580260882556" />
-    <state width="1398" height="244" key="GridCell.Tab.0.center" timestamp="1580311369388">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1398" height="205" key="GridCell.Tab.0.bottom/0.23.1440.798@0.23.1440.798" timestamp="1583470449155" />
+    <state width="1398" height="205" key="GridCell.Tab.0.bottom/0.23.1440.806@0.23.1440.806" timestamp="1583468819052" />
+    <state width="1398" height="205" key="GridCell.Tab.0.center" timestamp="1583470449154">
+      <screen x="0" y="23" width="1440" height="798" />
     </state>
     <state width="1398" height="244" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1580311369388" />
-    <state width="1398" height="206" key="GridCell.Tab.0.center/0.23.1440.806@0.23.1440.806" timestamp="1580260882556" />
-    <state width="1398" height="244" key="GridCell.Tab.0.left" timestamp="1580311369387">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1398" height="205" key="GridCell.Tab.0.center/0.23.1440.798@0.23.1440.798" timestamp="1583470449154" />
+    <state width="1398" height="205" key="GridCell.Tab.0.center/0.23.1440.806@0.23.1440.806" timestamp="1583468819052" />
+    <state width="1398" height="205" key="GridCell.Tab.0.left" timestamp="1583470449153">
+      <screen x="0" y="23" width="1440" height="798" />
     </state>
     <state width="1398" height="244" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1580311369387" />
-    <state width="1398" height="206" key="GridCell.Tab.0.left/0.23.1440.806@0.23.1440.806" timestamp="1580260882555" />
-    <state width="1398" height="244" key="GridCell.Tab.0.right" timestamp="1580311369388">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1398" height="205" key="GridCell.Tab.0.left/0.23.1440.798@0.23.1440.798" timestamp="1583470449153" />
+    <state width="1398" height="205" key="GridCell.Tab.0.left/0.23.1440.806@0.23.1440.806" timestamp="1583468819051" />
+    <state width="1398" height="205" key="GridCell.Tab.0.right" timestamp="1583470449154">
+      <screen x="0" y="23" width="1440" height="798" />
     </state>
     <state width="1398" height="244" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1580311369388" />
-    <state width="1398" height="206" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1580260882556" />
+    <state width="1398" height="205" key="GridCell.Tab.0.right/0.23.1440.798@0.23.1440.798" timestamp="1583470449154" />
+    <state width="1398" height="205" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1583468819052" />
     <state x="397" y="255" key="com.intellij.ide.util.TipDialog" timestamp="1580299490713">
       <screen x="0" y="23" width="1440" height="798" />
     </state>
     <state x="397" y="255" key="com.intellij.ide.util.TipDialog/0.23.1440.798@0.23.1440.798" timestamp="1580299490713" />
     <state x="397" y="257" key="com.intellij.ide.util.TipDialog/0.23.1440.804@0.23.1440.804" timestamp="1580224929651" />
+    <state x="385" y="77" width="670" height="676" key="search.everywhere.popup" timestamp="1583468653638">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state x="385" y="77" width="670" height="676" key="search.everywhere.popup/0.23.1440.806@0.23.1440.806" timestamp="1583468653638" />
   </component>
 </project>

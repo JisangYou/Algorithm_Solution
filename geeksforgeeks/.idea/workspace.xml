@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb620f20-b61c-4efb-87c0-86477d561ced" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Queue/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Queue/QNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/src/RecentCounter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/geeksforgeeks/Queue/Queue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/geeksforgeeks/Queue/Queue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/geeksforgeeks/Queue/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/geeksforgeeks/Queue/Test.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../leetcode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +47,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.Test">
+  <component name="RunManager" selected="Application.Test2">
     <configuration name="GFG" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BinaryTree.GFG" />
       <module name="geeksforgeeks" />
@@ -78,8 +81,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Queue.Test2" />
+      <module name="geeksforgeeks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Queue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test2" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.GFG" />
         <item itemvalue="Application.Node" />
@@ -112,6 +129,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1583460130268">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1583460130268" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1583460130266">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1583460130266" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1583460130266">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1583460130266" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1583460130267">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1583460130267" />
     <state x="397" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1583384096230">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
