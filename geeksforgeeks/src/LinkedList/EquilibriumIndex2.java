@@ -3,6 +3,10 @@ package LinkedList;
 // Java program to find equilibrium
 // index of an array
 
+/**
+ * Equilibrium index of an array
+ */
+
 class EquilibriumIndex2 {
     int equilibrium(int arr[], int n) {
         int sum = 0; // initialize sum of whole array

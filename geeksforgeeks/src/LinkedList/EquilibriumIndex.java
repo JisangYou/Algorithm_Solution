@@ -1,5 +1,9 @@
 package LinkedList;
 
+/**
+ * Equilibrium index of an array
+ */
+
 public class EquilibriumIndex {
     int equilibrium(int arr[], int n) {
         int i, j;
