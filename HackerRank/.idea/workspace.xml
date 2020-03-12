@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="462f5460-aa11-46b6-82f5-503d45a8b19b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DataStructure/Arrays_DS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataStructure/PrintTheElementsOf_a_Linked_list.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataStructure/PrintTheElementsOf_a_Linked_list.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructure/PrintTheElementsOf_a_Linked_list.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
