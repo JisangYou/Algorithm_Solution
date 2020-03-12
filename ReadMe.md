@@ -55,6 +55,12 @@
 
 # HackerRank
 
+## Data Structure
+| <center>Category</center> | <center>Challenge</center> | <center>Points</center> | <center>Solution</center> | <center>Date</center> |
+|:--------:|:--------:|:--------:|:--------:|:--------:|
+| <center>Array</center> | <center>[Arrays_DS](https://www.hackerrank.com/challenges/arrays-ds/problem) </center> | <center>10</center> | <center> [Solution](./hackerrank/src/DataStructure/Arrays_DS.java)</center> | <center>2019-03-23</center>
+| <center>Linked list</center> | <center>[PrintTheElementsOf_a_Linked_list](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem) </center> | <center>5</center> | <center> [Solution](./hackerrank/src/DataStructure/PrintTheElementsOf_a_Linked_list.java)</center> | <center>2019-03-23</center>
+
 ## 30 Days of Code
 
 | <center>Day</center> | <center>Challenge</center> | <center>Points</center> | <center>Solution</center> | <center>Date</center> |

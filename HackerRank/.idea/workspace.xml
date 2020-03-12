@@ -2,150 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="462f5460-aa11-46b6-82f5-503d45a8b19b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Algorithms/AVeryBigSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithms/AppleAndOrange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithms/BirthdayCakeCandles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithms/BreakingTheRecords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithms/CompareTheTriplets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithms/DiagonalDifference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithms/GradingStudents.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithms/Kangaroo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithms/MiniMaxSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithms/PlusMinus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithms/SimpleArraySum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithms/SolveMeFirst.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithms/StairCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithms/TimeConversion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java/Java1DArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java/JavaAnagrams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java/JavaBigInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java/JavaCurrencyFormatter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java/JavaDatatypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java/JavaDateAndTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java/JavaEndOfFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java/JavaIfElse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java/JavaIntToString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java/JavaLoops1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java/JavaLoops2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java/JavaOutputFormatting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java/JavaPrimalityTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java/JavaRegex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java/JavaRegex2DuplicateWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java/JavaStaticInitializerBlock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java/JavaStdinandStdout1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java/JavaStdinandStdout2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java/JavaStringReverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java/JavaStringTokens.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java/JavaStringsIntroduction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java/JavaSubstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java/JavaSubstringComparisons.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java/PatternSyntaxChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java/TagContentExtractor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java/ValidUsernameRegularExpression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThirtyDaysOfCode/Day0.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThirtyDaysOfCode/Day1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThirtyDaysOfCode/Day2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThirtyDaysOfCode/Day3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThirtyDaysOfCode/Day4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThirtyDaysOfCode/Day5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThirtyDaysOfCode/Day6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThirtyDaysOfCode/Day7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThirtyDaysOfCode/Day8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThirtyDaysOfCode/Day9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/Algorithm_Solution.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Etc/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Etc/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Etc/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Etc/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Etc/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Etc/Etc.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Etc/out/production/Etc/DP_exam_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Etc/out/production/Etc/DP_exam_2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Etc/out/production/Etc/Naver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Etc/out/production/Etc/Naver2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Etc/out/production/Etc/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Etc/out/production/Etc/Solution1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Etc/src/DP_exam_1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Etc/src/DP_exam_2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/HackerRank.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructure/Arrays_DS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructure/PrintTheElementsOf_a_Linked_list.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/30DaysofCode/Day0.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/30DaysofCode/Day1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/30DaysofCode/Day2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/30DaysofCode/Day3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/30DaysofCode/Day4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/30DaysofCode/Day5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/30DaysofCode/Day6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/30DaysofCode/Day7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/30DaysofCode/Day8.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/30DaysofCode/Day9.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms/AVeryBigSum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms/AppleAndOrange.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms/BirthdayCakeCandles.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms/BreakingTheRecords.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms/CompareTheTriplets.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms/DiagonalDifference.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms/GradingStudents.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms/Kangaroo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms/MiniMaxSum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms/PlusMinus.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms/SimpleArraySum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms/SolveMeFirst.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms/StairCase.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms/TimeConversion.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/Java1DArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/JavaAnagrams.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/JavaBigInteger.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/JavaCurrencyFormatter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/JavaDatatypes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/JavaDateAndTime.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/JavaEndOfFile.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/JavaIf-Else.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/JavaIntToString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/JavaLoops1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/JavaLoops2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/JavaOutputFormatting.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/JavaPrimalityTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/JavaRegex.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/JavaRegex2DuplicateWords.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/JavaStaticInitializerBlock.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/JavaStdinandStdoutI.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/JavaStdinandStdoutII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/JavaStringReverse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/JavaStringTokens.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/JavaStringsIntroduction.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/JavaSubstring.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/JavaSubstringCmparisons.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/PatternSyntaxChecker.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/TagContentExtractor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/ValidUsernameRegularExpression.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/ArithmeticOperators.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/FindTheRunnerUpScore.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/ListComprehensions.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/Lists.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/Loops.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/PrintFunction.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/PythonDivision.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/PythonIfElse.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/Tuples.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/WriteAFunction.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/helloWorld.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/sWAPcASE.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SQL/JapaneseCities'Attributes.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SQL/RevisingTheSelectQueryI.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SQL/RevisingTheSelectQueryII.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SQL/SelectAll.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SQL/SelectByID.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SQL/WeatherObservationStation1.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SQL/WeatherObservationStation3.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/../ReadMe.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -154,6 +13,13 @@
   </component>
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -177,7 +43,7 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.PrintTheElementsOf_a_Linked_list">
     <configuration name="Kangaroo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Algorithms.Kangaroo" />
       <module name="hackerrank" />
@@ -191,8 +57,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PrintTheElementsOf_a_Linked_list" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataStructure.PrintTheElementsOf_a_Linked_list" />
+      <module name="hackerrank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DataStructure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrintTheElementsOf_a_Linked_list" />
         <item itemvalue="Application.Kangaroo" />
       </list>
     </recent_temporary>
@@ -223,6 +103,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state width="1398" height="206" key="GridCell.Tab.0.bottom" timestamp="1584005927080">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state width="1398" height="206" key="GridCell.Tab.0.bottom/0.23.1440.801@0.23.1440.801" timestamp="1584005927080" />
+    <state width="1398" height="206" key="GridCell.Tab.0.center" timestamp="1584005927080">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state width="1398" height="206" key="GridCell.Tab.0.center/0.23.1440.801@0.23.1440.801" timestamp="1584005927080" />
+    <state width="1398" height="206" key="GridCell.Tab.0.left" timestamp="1584005927079">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state width="1398" height="206" key="GridCell.Tab.0.left/0.23.1440.801@0.23.1440.801" timestamp="1584005927079" />
+    <state width="1398" height="206" key="GridCell.Tab.0.right" timestamp="1584005927080">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state width="1398" height="206" key="GridCell.Tab.0.right/0.23.1440.801@0.23.1440.801" timestamp="1584005927080" />
     <state x="397" y="257" key="com.intellij.ide.util.TipDialog" timestamp="1584003705063">
       <screen x="0" y="23" width="1440" height="804" />
     </state>
