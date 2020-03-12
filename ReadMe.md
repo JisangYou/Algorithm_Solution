@@ -58,7 +58,7 @@
 ## Data Structure
 | <center>Category</center> | <center>Challenge</center> | <center>Points</center> | <center>Solution</center> | <center>Date</center> |
 |:--------:|:--------:|:--------:|:--------:|:--------:|
-| <center>Array</center> | <center>[Arrays_DS](https://www.hackerrank.com/challenges/arrays-ds/problem) </center> | <center>10</center> | <center> [Solution](./hackerrank/src/DataStructure/Arrays_DS.java)</center> | <center>2019-03-23</center>
+| <center>Arrays</center> | <center>[Arrays_DS](https://www.hackerrank.com/challenges/arrays-ds/problem) </center> | <center>10</center> | <center> [Solution](./hackerrank/src/DataStructure/Arrays_DS.java)</center> | <center>2019-03-23</center>
 | <center>Linked Lists</center> | <center>[PrintTheElementsOfaLinkedList](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem) </center> | <center>5</center> | <center> [Solution](./hackerrank/src/DataStructure/PrintTheElementsOfaLinkedList.java)</center> | <center>2020-03-13</center>
 | <center>Linked Lists</center> | <center>[InsertaNodeAtTheHeadOfaLinkedList](https://www.hackerrank.com/challenges/insert-a-node-at-the-head-of-a-linked-list/problem) </center> | <center>5</center> | <center> [Solution](./hackerrank/src/DataStructure/InsertaNodeAtTheHeadOfaLinkedList.java)</center> | <center>2020-03-13</center>
 
