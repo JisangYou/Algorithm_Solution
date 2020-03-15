@@ -16,6 +16,7 @@ public class GFG4 {
 
         // Find minimum element in the array
         for (int i = 0; i < n; i++)
+
             minEle = Math.min(arr[i], minEle);
 
         // Initialize curr_sum as value of
