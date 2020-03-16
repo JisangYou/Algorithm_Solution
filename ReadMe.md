@@ -16,6 +16,12 @@
 | <center>58</center>| <center>[Lenghth of Last Word](https://leetcode.com/problems/length-of-last-word/) </center>  | <center> - </center> | <center>[Solution](./leetcode/src/LengthOfLastWord.java)</center> | <center>2020-01-30</center>
 | <center>100</center>| <center>[Same Tree](https://leetcode.com/problems/same-tree/) </center>  | <center> Tree </center> | <center>[Solution](./leetcode/src/SameTree.java)</center> | <center>2020-03-04</center>
 | <center>933</center>| <center>[Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) </center>  | <center> Queue </center> | <center>[Solution](./leetcode/src/RecentCounter.java)</center> | <center>2020-03-06</center>
+| <center>997</center>| <center>[Find the town judge](https://leetcode.com/problems/find-the-town-judge/) </center>  | <center> Graph </center> | <center>[Solution](./leetcode/src/FindTheTownJudge.java)</center> | <center>2020-03-06</center>
+| <center>2</center>| <center>[Add two numbers](https://leetcode.com/problems/add-two-numbers/submissions/) </center>  | <center> LinkedList </center> | <center>[Solution](./leetcode/src/AddTwoNumbers.java)</center> | <center>2020-03-06</center>
+
+
+
+
 
 # Programmers
 
