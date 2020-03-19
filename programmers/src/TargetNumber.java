@@ -30,9 +30,6 @@ public class TargetNumber {
 
     private void dfs(int depth, int total) {
 
-
-        if (depth > number_arr.length) return;
-
         if (depth == number_arr.length) {
             if (total == targetNum) {
                 count++;
@@ -42,9 +39,11 @@ public class TargetNumber {
         for (int i = 0; i < 2; i++) {
             if (plus_minus[i] > 0) {
                 dfs(depth + 1, total + number_arr[depth]);
+                System.out.println(i+", "+plus_minus[i]);
                 plus_minus[i]++;
             } else {
                 dfs(depth + 1, total - number_arr[depth]);
+                System.out.println(i+", "+plus_minus[i]);
                 plus_minus[i]--;
             }
         }
