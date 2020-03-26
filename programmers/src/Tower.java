@@ -3,35 +3,51 @@ import java.util.Queue;
 import java.util.Stack;
 
 public class Tower {
+    public static void main(String[] args) {
+//        int[] numbers = new int[]{6, 9, 5, 7, 4};
+//        int[] numbers = new int[]{3, 9, 9, 3, 5, 7, 2};
+        int[] numbers = new int[]{1, 5, 3, 6, 7, 6, 5};
+
+
+        Tower sol = new Tower();
+        System.out.print("sol = " + sol.solution(numbers));
+
+    }
+
     public int[] solution(int[] heights) {
-        int[] answer = {};
-        Stack<Integer> stack = new Stack<Integer>();
-        Queue<Integer> queue = new LinkedList<>();
+        int[] answer = new int[heights.length];
+        Stack<Integer> stack = new Stack();
+        Stack<Integer> resultStack = new Stack();
+        boolean check = false;
+
         for (int i = 0; i < heights.length; i++) {
-
-            stack.push((int) heights[i]);
-
+            stack.push(heights[i]);
         }
-        for (int i = 0; i < heights.length; i++) {
-            System.out.println(stack.peek());
-            if (heights[heights.length - i - 1] <) {
 
+        while (!stack.isEmpty()) {
+            for (int i = 0; i < stack.size(); i++) {
+                if (stack.get(stack.size() - i - 1) > stack.peek()) {
+                    resultStack.push(stack.size() - i);
+                    check = true;
+                    break;
+                } else {
+                    check = false;
+                }
+            }
+            if (check) {
+                stack.pop();
+            } else {
+                resultStack.push(0);
+                stack.pop();
+                check = false;
             }
         }
 
-        for (int i = 0; i < queue.size(); i++) {
-            System.out.println(((LinkedList<Integer>) queue).get(i));
+        for (int i = 0; i < answer.length; i++) {
+            answer[i] = resultStack.pop();
+            System.out.println(answer[i]);
         }
+
         return answer;
-    }
-
-    public static void main(String[] args) {
-        // TODO Auto-generated method stub
-
-// 발사한 신호는 신호를 보낸 탑보다 높은 탑에서만 수신
-        int[] heights = new int[]{6, 9, 5, 7, 4};
-        Tower sol = new Tower();
-        sol.solution(heights);
-
     }
 }
