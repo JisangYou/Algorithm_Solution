@@ -60,6 +60,7 @@
 | <center>1</center>| <center>[더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626) </center> | <center>힙</center>  | <center>[Solution](./programmers/src/MoreSpice.java)</center> | <center>2020-03-18</center>
 | <center>1</center>| <center>[타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) </center> | <center>DFS/BFS</center>  | <center>[Solution](./programmers/src/TargetNumber.java)</center> | <center>2020-03-19</center>
 | <center>1</center>| <center>[탑](https://programmers.co.kr/learn/courses/30/lessons/42588) </center> | <center>스택/큐</center>  | <center>[Solution](./programmers/src/Tower.java)</center> | <center>2020-03-26</center>
+| <center>1</center>| <center>[모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) </center> | <center>완전탐색</center>  | <center>[Solution](./programmers/src/MockExam.java)</center> | <center>2020-04-04</center>
 
 # HackerRank
 

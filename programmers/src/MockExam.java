@@ -3,9 +3,9 @@ import java.util.Arrays;
 public class MockExam {
 
     public int[] solution(int[] answers) {
-        int[] first = new int[]{1, 2, 3, 4, 5};
-        int[] second = new int[]{2, 1, 2, 3, 2, 4, 2, 5};
-        int[] third = new int[]{3, 3, 1, 1, 2, 2, 4, 4, 5, 5};
+        int[] first = new int[]{1, 2, 3, 4, 5}; // 5
+        int[] second = new int[]{2, 1, 2, 3, 2, 4, 2, 5}; //8
+        int[] third = new int[]{3, 3, 1, 1, 2, 2, 4, 4, 5, 5}; //10
 
         int count1 = 0;
         int count2 = 0;
