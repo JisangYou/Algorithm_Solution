@@ -8,22 +8,40 @@ class TreeNode(object):
 
 
 class Solution(object):
-
+    # def rangeSumBST(self, root, L, R):
+    #     """
+    #     :type root: TreeNode
+    #     :type L: int
+    #     :type R: int
+    #     :rtype: int
+    #     """
+    #     queue = [root]
+    #     result = 0
+    #     while queue:
+    #         root = queue.pop(0)
+    #         if root is not None:
+    #
+    #             if root.val is not None and L <= root.val <= R:
+    #                 result = result + root.val
+    #             if root.left:
+    #                 queue.append(root.left)
+    #             if root.right:
+    #                 queue.append(root.right)
+    #
+    #     return result
     def rangeSumBST(self, root, L, R):
-        queue = [root]
-        result = 0
-        while queue:
-            root = queue.pop(0)
-            if root is not None:
+        def dfs(root):
+            if root:
                 if root.val is not None and L <= root.val <= R:
-                    result = result + root.val
-                if root.left:
-                    queue.append(root.left)
-                if root.right:
-                    queue.append(root.right)
+                    self.result += root.val
+                if root.left is not None:
+                    dfs(root.left)
+                if root.right is not None:
+                    dfs(root.right)
 
-        return result
-
+        self.result = 0
+        dfs(root)
+        return self.result
 
 
 L = 7
@@ -32,7 +50,6 @@ solution = Solution()
 
 print(solution.rangeSumBST(
     TreeNode(10, TreeNode(5, TreeNode(3), TreeNode(7)), TreeNode(15, TreeNode(None), TreeNode(18))), L, R))
-
 
 # 재귀적용법으로 풀이
 
