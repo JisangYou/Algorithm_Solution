@@ -2,6 +2,9 @@
 
 | <center>Num</center>| <center>Challenge</center>  | <center>Type</center> |<center>Solution</center> | <center>Date</center> |
 |:--------:|:--------:|:--------:|:--------:|:--------:|
+| <center>1290</center>| <center>[Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) </center>  | <center> - </center> | <center>[Solution](./Algorithm_py/leetcode/ConvertBinaryNumberInALinkedListToInteger.py)</center> | <center>2020-09-17</center>
+| <center>1304</center>| <center>[Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/) </center>  | <center> - </center> | <center>[Solution](./Algorithm_py/leetcode/FindNUniqueIntegersSumUpToZero.py)</center> | <center>2020-09-17</center>
+| <center>1464</center>| <center>[Maximum Product of Two Elements in an Array ](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) </center>  | <center> - </center> | <center>[Solution](./Algorithm_py/leetcode/MaximumProductOfTwoElementsInAnArray.py)</center> | <center>2020-09-17</center>
 | <center>832</center>| <center>[Flipping an Image](https://leetcode.com/problems/flipping-an-image/) </center>  | <center> - </center> | <center>[Solution](./Algorithm_py/leetcode/FlippingAnImage.py)</center> | <center>2020-09-14</center>
 | <center>217</center>| <center>[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) </center>  | <center> - </center> | <center>[Solution](./Algorithm_py/leetcode/ContainsDuplicate.py)</center> | <center>2020-09-14</center>
 | <center>1436</center>| <center>[Destination City](https://leetcode.com/problems/destination-city/) </center>  | <center> - </center> | <center>[Solution](./Algorithm_py/leetcode/DestinationCity.py)</center> | <center>2020-09-14</center>
