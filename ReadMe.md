@@ -2,6 +2,10 @@
 
 | <center>Num</center>| <center>Challenge</center>  | <center>Type</center> |<center>Solution</center> | <center>Date</center> |
 |:--------:|:--------:|:--------:|:--------:|:--------:|
+| <center>929</center>| <center>[Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) </center>  | <center> - </center> | <center>[Solution](./Algorithm_py/leetcode/UniqueEmailAddresses.py)</center> | <center>2020-09-18</center>
+| <center>344</center>| <center>[Reverse String](https://leetcode.com/problems/reverse-string/) </center>  | <center> - </center> | <center>[Solution](./Algorithm_py/leetcode/ReverseString.py)</center> | <center>2020-09-18</center>
+| <center>852</center>| <center>[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) </center>  | <center> - </center> | <center>[Solution](./Algorithm_py/leetcode/PeakIndexInAMountainArray.py)</center> | <center>2020-09-18</center>
+| <center>657</center>| <center>[Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) </center>  | <center> - </center> | <center>[Solution](./Algorithm_py/leetcode/RobotReturnToOrigin.py)</center> | <center>2020-09-18</center>
 | <center>1290</center>| <center>[Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) </center>  | <center> - </center> | <center>[Solution](./Algorithm_py/leetcode/ConvertBinaryNumberInALinkedListToInteger.py)</center> | <center>2020-09-17</center>
 | <center>1304</center>| <center>[Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/) </center>  | <center> - </center> | <center>[Solution](./Algorithm_py/leetcode/FindNUniqueIntegersSumUpToZero.py)</center> | <center>2020-09-17</center>
 | <center>1464</center>| <center>[Maximum Product of Two Elements in an Array ](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) </center>  | <center> - </center> | <center>[Solution](./Algorithm_py/leetcode/MaximumProductOfTwoElementsInAnArray.py)</center> | <center>2020-09-17</center>
