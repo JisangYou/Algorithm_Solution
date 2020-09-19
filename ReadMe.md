@@ -3,8 +3,8 @@
 | <center>Num</center>| <center>Challenge</center>  | <center>Type</center> |<center>Solution</center> | <center>Date</center> |
 |:--------:|:--------:|:--------:|:--------:|:--------:|
 | <center>905</center>| <center>[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) </center>  | <center> - </center> | <center>[Solution](./Algorithm_py/leetcode/SortArrayByParity.py)</center> | <center>2020-09-20</center>
-| <center>412</center>| <center>[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) </center>  | <center> - </center> | <center>[Solution](./Algorithm_py/leetcode/FizzBuzz.py)</center> | <center>2020-09-20</center>
-| <center>824</center>| <center>[Goat Latin](https://leetcode.com/problems/goat-latin/) </center>  | <center> - </center> | <center>[Solution](./Algorithm_py/leetcode/GoatLatin.py)</center> | <center>2020-09-20</center>
+| <center>412</center>| <center>[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) </center>  | <center> - </center> | <center>[Solution](./Algorithm_py/leetcode/FizzBuzz.py)</center> | <center>2020-09-19</center>
+| <center>824</center>| <center>[Goat Latin](https://leetcode.com/problems/goat-latin/) </center>  | <center> - </center> | <center>[Solution](./Algorithm_py/leetcode/GoatLatin.py)</center> | <center>2020-09-19</center>
 | <center>929</center>| <center>[Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) </center>  | <center> - </center> | <center>[Solution](./Algorithm_py/leetcode/UniqueEmailAddresses.py)</center> | <center>2020-09-18</center>
 | <center>344</center>| <center>[Reverse String](https://leetcode.com/problems/reverse-string/) </center>  | <center> - </center> | <center>[Solution](./Algorithm_py/leetcode/ReverseString.py)</center> | <center>2020-09-18</center>
 | <center>852</center>| <center>[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) </center>  | <center> - </center> | <center>[Solution](./Algorithm_py/leetcode/PeakIndexInAMountainArray.py)</center> | <center>2020-09-18</center>
